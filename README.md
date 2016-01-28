@@ -1,19 +1,7 @@
-# Foo
-adding something
-Song
-adding something secondly - 01/27
+# This is my first Repository - Song
+- local repo. : ~/tmp/qux
+- local repo.2: ~/Git/prog270-song-2016
 
-This comment is adding in my qux dir.
-
-Again, adding 2nd change in my Git dir.
-
-## Git 
-```
-git add xxx
-git status
-git commit -m ''
-git status
-git push
-
-git diff
-```
+### Github
+> git@github.com:timsong12/prog270-song-2016.git
+> https://github.com/timsong12/prog270-song-2016.git
