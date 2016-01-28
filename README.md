@@ -15,6 +15,7 @@ git status
 git commit -m "any comment for this commit"
 git status
 git push
+git pull
 ```
 ## Other Git commands
 ```
