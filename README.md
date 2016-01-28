@@ -9,6 +9,8 @@
 ## Basic Git command
 ```
 git add modified.file
-git commit -m 'any comment for this commit'
+git status
+git commit -m "any comment for this commit"
+git status
 git push
 ```
