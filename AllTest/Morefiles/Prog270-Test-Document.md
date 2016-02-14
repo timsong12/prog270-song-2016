@@ -37,4 +37,5 @@ function foo(){
 
 ## Creating Pictures
 Start with an exclamation point, a bang, and then put a few words in square brackets, then put the URL of the image in parenthesis.
+
 ![My Image](http://www.ccalvert.net/charlie/images/elvenwarelogo.png)
