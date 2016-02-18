@@ -2,12 +2,12 @@
 
 ### Man
 
-<img src="ranking-man.PNG" alt="rank-man">
+<img src="/images/ranking-man.png" alt="rank-man">
 
 From [ATP](http://www.atpworldtour.com/en/rankings/singles)
 
 ### Woman
 
-<img src="ranking-woman.PNG" alt="rank-woman">
+<img src="/images/ranking-woman.png" alt="rank-woman">
 
 From [WTA](http://www.wtatennis.com/singles-rankings)
