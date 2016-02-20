@@ -1,9 +1,12 @@
-img.forty-percent {
-   width: 40%;
+img.w90percent {
+   width: 90%;
 }
-img.twenty-percent {
-   width: 20%;
+img.w75percent {
+   width: 75%;
 }
-img.thirty-percent {
-   width: 30%;
+img.w50percent {
+   width: 50%;
+}
+img.w25percent {
+   width: 25%;
 }
