@@ -8,6 +8,7 @@ This is a markdown document with a list in it.
 - Charlie
 - Delta
 - Echo
+***
 
 Learn More
 ----------
@@ -19,7 +20,7 @@ Of course you can find information on sites like Elvenware:
 - [Elvenware](http://www.elvenware.com)
 - [CloudPages](http://elvenware.com/charlie/books/CloudNotes/CloudNotes.html)
 
-
+***
 ## Preformat
 ```
 function foo(){
@@ -33,6 +34,7 @@ function foo(){
 > 1
 > 2
 > 3
+***
 
 
 ## Creating Pictures
