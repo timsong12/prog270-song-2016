@@ -1,0 +1,4 @@
+rm -r ~/Documents/AllTest
+cp -r ~/Git/prog270-song-2016/AllTest ~/Documents/.
+cp ~/Git/prog270-song-2016/AllTest/css ~/var/www/html/css
+cp ~/Git/prog270-song-2016/AllTest/images ~/var/www/html/images

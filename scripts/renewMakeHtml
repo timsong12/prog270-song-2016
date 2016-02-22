@@ -1,0 +1,7 @@
+rm -r ~/Source/MakeHtml
+cd ~/Source
+cp -r $JSOBJECTS/JavaScript/NodeCode/MakeHtml/ .
+cd MakeHtml
+npm install
+npm start
+cd ~/Git/prog270-song-2016/scripts
