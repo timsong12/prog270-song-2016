@@ -1,9 +1,6 @@
 rm -r ~/Documents/AllTest
 cp -r ~/Git/prog270-song-2016/AllTest ~/Documents/.
-rm -r /var/www/html/css
-rm -r /var/www/html/images
-rm -r /var/www/html/js
-cp -r ~/Git/prog270-song-2016/AllTest/css /var/www/html/
-cp -r ~/Git/prog270-song-2016/AllTest/images /var/www/html/
-cp -r ~/Git/prog270-song-2016/AllTest/js /var/www/html/
+cp -rf ~/Git/prog270-song-2016/AllTest/css /var/www/html/
+cp -rf ~/Git/prog270-song-2016/AllTest/images /var/www/html/
+cp -rf ~/Git/prog270-song-2016/AllTest/js /var/www/html/
 

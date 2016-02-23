@@ -1,4 +1,3 @@
-* [US.html](US.html)
 * [china.html](china.html)
 * [france.html](france.html)
 * [germany.html](germany.html)
@@ -7,3 +6,4 @@
 * [romania.html](romania.html)
 * [swiss.html](swiss.html)
 * [uk.html](uk.html)
+* [us.html](us.html)

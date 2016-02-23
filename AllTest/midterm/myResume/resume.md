@@ -22,10 +22,13 @@ Trusted & respected SW Engineer with proven history of success building and lead
 - High creative, great team worker and willing to think outside the box
 
 ## TECHNOLOGY PROFICIENCY
-> PROGRAMMING LANGUAGES: **C/C++ | Java | JavaScript**
-> MOBILE NETWORKING: **LTE | WCDMA | GSM | Wi-Fi**
-> OS: **Linux | Android | Windows**
-> TRACERS & ANALYSIS TOOLS: **QXDM | QCAT | Snapper**
+|  |  |  |  | |
+--- | --- | --- | --- | ---
+| PROGRAMMING LANGUAGES | C/C++ | Java | JavaScript | |
+| MOBILE NETWORKING | LTE | WCDMA | GSM | Wi-Fi |
+| OS | Linux | Android | Windows | |
+| TRACERS & ANALYSIS TOOLS | QXDM | QCAT | Snapper | |
+|  |  |  |  | |
 
 ## PROFESSIONAL EXPERIENCE
 **SW ENGINEER, Mobile Communication Division
