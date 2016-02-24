@@ -16,6 +16,6 @@ mkdir -p /var/www/html/images
 mkdir -p /var/www/html/js
 
 # Copy CSS, JavaScript and Images
-cp -r $CSS_JS_IMAGE/css /var/www/html/css
-cp -r $CSS_JS_IMAGE/images /var/www/html/images
-cp -r $CSS_JS_IMAGE/js /var/www/html/js
+cp -rf $CSS_JS_IMAGE/css /var/www/html/
+cp -rf $CSS_JS_IMAGE/images /var/www/html/
+cp -rf $CSS_JS_IMAGE/js /var/www/html/
