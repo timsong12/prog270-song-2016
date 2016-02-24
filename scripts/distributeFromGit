@@ -1,8 +1,21 @@
-rm -r ~/Documents/AllTest
-rm -r /var/www/html/css
-rm -r /var/www/html/images
-rm -r /var/www/html/js
-cp -r ~/Git/prog270-song-2016/AllTest ~/Documents/
-cp -r ~/Git/prog270-song-2016/ApacheHelpers/css /var/www/html/
-cp -r ~/Git/prog270-song-2016/ApacheHelpers/images /var/www/html/
-cp -r ~/Git/prog270-song-2016/ApacheHelpers/js /var/www/html/
+#! /bin/bash
+
+# Declare destination dir for AllTest in 
+# one place so it is easy to modify
+REPO=$GIT_HOME/prog270-song-2016
+
+# Declare destination for CSS, JavaScript and Images
+CSS_JS_IMAGE=$REPO/ApacheHelpers
+
+# Copy AllTest
+cp -r $REPO/AllTest/ ~/Documents
+
+# Ensure destination dir exists for CSS, JS and Images
+mkdir -p /var/www/html/css
+mkdir -p /var/www/html/images
+mkdir -p /var/www/html/js
+
+# Copy CSS, JavaScript and Images
+cp -r $CSS_JS_IMAGE/css /var/www/html/css
+cp -r $CSS_JS_IMAGE/images /var/www/html/images
+cp -r $CSS_JS_IMAGE/js /var/www/html/js
