@@ -7,6 +7,12 @@ img.w75percent {
 img.w50percent {
    width: 50%;
 }
+img.w40percent {
+   width: 40%;
+}
+img.w30percent {
+   width: 30%;
+}
 img.w25percent {
    width: 25%;
 }

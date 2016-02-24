@@ -6,7 +6,7 @@ Tel: (425) 399-1574
 Email: security60@gmail.com
 
 <img class="w25percent" src="/images/resume.png" alt="1">
-![me](/images/resume.png)
+<img class="w30percent" src="/images/resume.png" alt="1">
 
 ## PROFESSIONAL SUMMARY
 Trusted & respected SW Engineer with proven history of success building and leading exemplary technical teams to deliver bottom line results in customer satisfaction & company profit within the telecommunication sector. Also offer expertise in requirements definition, implementation, test & debugging and maintenance support with deep knowledge of software development. Further, pivotal resource for leading organization (Samsung Electronics mobile division) and carrier operators (T-Mobile, AT&T, Vodafone).

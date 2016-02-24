@@ -1,7 +1,7 @@
 
-<img class="w90percent" src="/images/bt/romania/brasov.jpg" alt="1">
-<img class="w90percent" src="/images/bt/romania/test.jpg" alt="2">
-<img class="w90percent" src="/images/bt/romania/sinaia.jpg" alt="3">
-<img class="w90percent" src="/images/bt/romania/food.jpg" alt="4">
-<img class="w90percent" src="/images/bt/romania/beer.jpg" alt="5">
+<img class="w75percent" src="/images/bt/romania/brasov.jpg" alt="1"><br>
+<img class="w75percent" src="/images/bt/romania/test.jpg" alt="2"><br>
+<img class="w75percent" src="/images/bt/romania/sinaia.jpg" alt="3"><br>
+<img class="w75percent" src="/images/bt/romania/food.jpg" alt="4"><br>
+<img class="w75percent" src="/images/bt/romania/beer.jpg" alt="5">
 
