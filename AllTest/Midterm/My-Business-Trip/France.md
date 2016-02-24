@@ -1,4 +1,3 @@
-## France
 
 ###Eifl tower
 <img class="w90percent" src="/images/bt/france/efl1.jpg" alt="1">

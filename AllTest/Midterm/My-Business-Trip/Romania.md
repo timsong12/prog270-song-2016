@@ -1,4 +1,3 @@
-## Romania
 
 <img class="w90percent" src="/images/bt/romania/brasov.jpg" alt="1">
 <img class="w90percent" src="/images/bt/romania/test.jpg" alt="2">

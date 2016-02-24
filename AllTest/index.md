@@ -1,3 +1,3 @@
-This is Tim's Home Page
+This is Tim's Mid-Term Home Page
 
-* [Midterm Assignment 2016](/midterm/midterm.html)
+* [Midterm Assignment Prog270-2016](/Midterm/Midterm.html)

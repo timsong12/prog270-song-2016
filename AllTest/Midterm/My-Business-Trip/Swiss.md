@@ -1,4 +1,3 @@
-## Swiss
 
 <img class="w90percent" src="/images/bt/swiss/swiss.jpg" alt="1">
 <img class="w90percent" src="/images/bt/swiss/jung.jpg" alt="2">

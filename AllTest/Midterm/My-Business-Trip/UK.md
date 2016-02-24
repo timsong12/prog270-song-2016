@@ -1,4 +1,3 @@
-## United Kingdom
 
 ### London
 <img class="w90percent" src="/images/bt/uk/lon1.jpg" alt="1">

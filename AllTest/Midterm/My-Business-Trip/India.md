@@ -1,4 +1,3 @@
-## India
 
 ### Deli
 <img class="w90percent" src="/images/bt/india/ind1.jpg" alt="1">

@@ -1,4 +1,3 @@
-## Germany
 
 ### Frankfurt
 <img class="w90percent" src="/images/bt/germany/ram.jpg" alt="1">
@@ -10,7 +9,7 @@
 <img class="w90percent" src="/images/bt/germany/heidel2.jpg" alt="5">
 
 ### Suttugart
-<img class="w90percent" src="/images/bt/germany/sut1.jpg" alt="6">
+<img class="w90percent" src="/images/bt/germany/sut.jpg" alt="6">
 <img class="w90percent" src="/images/bt/germany/sut2.jpg" alt="7">
 <img class="w90percent" src="/images/bt/germany/mai.jpg" alt="8">
 

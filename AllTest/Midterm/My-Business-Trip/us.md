@@ -1,4 +1,3 @@
-## U.S.
 
 ### Seattle
 <img class="w90percent" src="/images/bt/us/sea1.jpg" alt="1">
