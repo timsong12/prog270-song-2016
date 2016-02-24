@@ -1,5 +1,6 @@
 
-###Eifl tower
+### Eifl tower
+
 <img class="w75percent" src="/images/bt/france/efl1.jpg" alt="1"><br>
 <img class="w75percent" src="/images/bt/france/efl2.jpg" alt="2"><br>
 <img class="w75percent" src="/images/bt/france/efl3.jpg" alt="3"><br>
@@ -13,3 +14,5 @@
 <img class="w75percent" src="/images/bt/france/down.jpg" alt="8"><br>
 <img class="w75percent" src="/images/bt/france/the.jpg" alt="11"><br>
 <img class="w75percent" src="/images/bt/france/mul.jpg" alt="9">
+
+[go to My-Business-Trip page](/Midterm/My-Business-Trip/My-BusinessTrip.html)

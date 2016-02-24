@@ -11,4 +11,4 @@
 <img class="w75percent" src="/images/bt/uk/camb4.jpg" alt="7"><br>
 <img class="w75percent" src="/images/bt/uk/camb5.jpg" alt="8">
 
-
+[go to My-Business-Trip page](/Midterm/My-Business-Trip/My-BusinessTrip.html)

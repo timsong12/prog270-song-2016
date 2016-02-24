@@ -23,3 +23,5 @@
 
 ### Trier
 <img class="w75percent" src="/images/bt/germany/tier.jpg" alt="13">
+
+[go to My-Business-Trip page](/Midterm/My-Business-Trip/My-BusinessTrip.html)

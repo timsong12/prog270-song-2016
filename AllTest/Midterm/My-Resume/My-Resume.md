@@ -77,3 +77,4 @@ Chonbuk National University, Jeonju, Korea
 Bachelor of Science, Computer Science, 2001
 Chonbuk National University, Jeonju, Korea
 ```
+[go to Midterm page](/Midterm/Midterm.html)
