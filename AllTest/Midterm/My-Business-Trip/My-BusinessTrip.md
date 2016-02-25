@@ -18,4 +18,4 @@
 - [India](/Midterm/My-Business-Trip/India.html)
 - [China](/Midterm/My-Business-Trip/China.html)
 
-[go to Midterm page](/Midterm/Midterm.html)
+[To Main page](/index.html)

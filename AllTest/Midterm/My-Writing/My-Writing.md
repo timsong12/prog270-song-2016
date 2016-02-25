@@ -15,4 +15,4 @@ Here're my English Writing from my ESL class
 ### Poem
 - [Kei Nishikory](Kei Nishikory.html)
 
-[go to Midterm page](/Midterm/Midterm.html)
+[To Main page](/index.html)
