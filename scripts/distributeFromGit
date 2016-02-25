@@ -19,3 +19,6 @@ mkdir -p /var/www/html/js
 cp -rf $CSS_JS_IMAGE/css /var/www/html/
 cp -rf $CSS_JS_IMAGE/images /var/www/html/
 cp -rf $CSS_JS_IMAGE/js /var/www/html/
+
+# Copy index.html
+cp $REPO/index.html /var/www/html/.
