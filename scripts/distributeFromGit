@@ -8,17 +8,30 @@ REPO=$GIT_HOME/prog270-song-2016
 CSS_JS_IMAGE=$REPO/ApacheHelpers
 
 # Copy AllTest
-cp -r $REPO/AllTest/ ~/Documents
+if [ -d "~/Documents/AllTest/" ]; then
+rm -rf ~/Documents/AllTest
+fi
+cp -r $REPO/AllTest ~/Documents/.
 
+# Clean up existing file
+if [ -d "/var/www/html/css/" ]; then
+rm -rf /var/www/html/css
+fi
+if [ -d "/var/www/html/images/" ]; then
+rm -rf /var/www/html/images
+fi
+if [ -d "/var/www/html/js/" ]; then
+rm -rf /var/www/html/js
+fi
 # Ensure destination dir exists for CSS, JS and Images
-mkdir -p /var/www/html/css
-mkdir -p /var/www/html/images
-mkdir -p /var/www/html/js
+#mkdir -p /var/www/html/css
+#mkdir -p /var/www/html/images
+#mkdir -p /var/www/html/js
 
 # Copy CSS, JavaScript and Images
-cp -rf $CSS_JS_IMAGE/css /var/www/html/
-cp -rf $CSS_JS_IMAGE/images /var/www/html/
-cp -rf $CSS_JS_IMAGE/js /var/www/html/
+cp -r $CSS_JS_IMAGE/css /var/www/html/.
+cp -r $CSS_JS_IMAGE/images /var/www/html/.
+cp -r $CSS_JS_IMAGE/js /var/www/html/.
 
 # Copy index.html
 cp $REPO/index.html /var/www/html/.
