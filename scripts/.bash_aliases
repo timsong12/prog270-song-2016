@@ -23,8 +23,8 @@ alias p2='cd ~/Git/prog270-song-2016'
 alias scpt='cd ~/Git/prog270-song-2016/scripts'
 alias www='cd /var/www/html'
 alias at='cd ~/Documents/AllTest'
-alias mkhtm='cd ~/Source/MakeHtml'
-alias evnimg='cd ~/Source/ElvenImages'
+alias schtm='cd ~/Source/MakeHtml'
+alias scimg='cd ~/Source/ElvenImages'
 
 #alias isit="cd $GEN/Git/Isit322-2015"
 #alias p28='cd ~/Git/Prog282'
