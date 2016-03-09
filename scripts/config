@@ -1,0 +1,11 @@
+Host ubuntu
+    HostName 52.35.186.135 
+    Port 22
+    User ubuntu
+    IdentityFile ~/.ssh/Prog270Ec2-Song-2016.pem
+
+Host bitbucket.org
+    IdentityFile ~/.ssh/prog270key
+
+Host github.com
+    IdentityFile ~/.ssh/prog270key
