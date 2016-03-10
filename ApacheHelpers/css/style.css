@@ -16,3 +16,13 @@ img.w30percent {
 img.w25percent {
    width: 25%;
 }
+
+body {
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+div.padded {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
