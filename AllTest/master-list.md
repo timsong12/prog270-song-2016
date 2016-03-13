@@ -1,5 +1,4 @@
 * [Summary.html](Summary.html)
-* [Morefiles/Summary.html](Morefiles/Summary.html)
 * [Midterm/Summary.html](Midterm/Summary.html)
 * [Midterm/My-Writing/Summary.html](Midterm/My-Writing/Summary.html)
 * [Midterm/My-Resume/Summary.html](Midterm/My-Resume/Summary.html)
