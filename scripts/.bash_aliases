@@ -22,6 +22,7 @@ alias ee="ssh ubuntu"
 alias p2='cd ~/Git/prog270-song-2016'
 alias scpt='cd ~/Git/prog270-song-2016/scripts'
 alias www='cd /var/www/html'
+alias cgibin='cd /usr/lib/cgi-bin'
 alias at='cd ~/Documents/AllTest'
 alias schtm='cd ~/Source/MakeHtml'
 alias scimg='cd ~/Source/ElvenImages'
