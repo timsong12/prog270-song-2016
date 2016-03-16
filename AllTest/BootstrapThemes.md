@@ -1,6 +1,7 @@
 # Bootstrap Themes
 
 Working with Bootstrap and Bootswatch Themes....
+Current Theme is **Yeti**
 
 ## Buttons
 - Large size
