@@ -1,5 +1,1 @@
 * [Summary.html](Summary.html)
-* [Midterm/Summary.html](Midterm/Summary.html)
-* [Midterm/My-Writing/Summary.html](Midterm/My-Writing/Summary.html)
-* [Midterm/My-Resume/Summary.html](Midterm/My-Resume/Summary.html)
-* [Midterm/My-Business-Trip/Summary.html](Midterm/My-Business-Trip/Summary.html)

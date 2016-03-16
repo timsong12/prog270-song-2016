@@ -1,10 +1,10 @@
 # Presidents
 
 <div>
-  <button id="getPresidents" type="button"> Get Presidents </button>
+  <button id="idGetPresidentsBtn" type="button"> Get Presidents </button>
 </div>
 
 <div>
-  <ul id='bar'>
+  <ul id='idPresidentsList'>
   </ul>
 </div>

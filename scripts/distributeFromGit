@@ -36,3 +36,5 @@ cp -ruvp $CSS_JS_IMAGE/js /var/www/html/.
 
 # Copy index.html
 cp -uvp $REPO/index.html /var/www/html/.
+
+cp -uvp $REPO/scripts/.bash_aliases ~/.
