@@ -1,0 +1,57 @@
+//
+   Created by charlie on 3/1/15.
+
+mixin bootswatch-superhero
+    link(rel="stylesheet", href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.6/superhero/bootstrap.min.css")
+
+mixin bootswatch-slate    
+    link(href='https://maxcdn.bootstrapcdn.com/bootswatch/3.3.6/slate/bootstrap.min.css', rel='stylesheet')
+
+mixin mainMenu()
+    nav.navbar.navbar-inverse.navbar-fixed-top
+      .container
+        .navbar-header
+          button.navbar-toggle.collapsed(type='button', data-toggle='collapse', data-target='#navbar', aria-expanded='false', aria-controls='navbar')
+            span.sr-only Toggle navigation
+            span.icon-bar
+            span.icon-bar
+            span.icon-bar
+          a.navbar-brand(href='/master-list.html') Tim's Final
+        #navbar.navbar-collapse.collapse
+          ul.nav.navbar-nav
+            li.active
+              a(href='/') My Carrier
+            li
+              a(href='/master-list.html') master-list
+            li
+              a(href='/Summary.html') Summary
+            li.dropdown
+              a.dropdown-toggle(href='#', data-toggle='dropdown', role='button', aria-haspopup='true', aria-expanded='false')
+                | Dropdown 
+                span.caret
+              ul.dropdown-menu
+                li
+                  a(href='/1_LinuxEnv/Summary.html') Computing General Env.
+                li
+                  a(href='/2_CloudEnv/Summary.html') Linux Env.
+                li
+                  a(href='/3_MarkDown/Summary.html') Mark Down
+                li
+                  a(href='/4_LAMP/Summary.html') LAMP
+                li
+                  a(href='/5_ImageHandling/Summary.html') Image Handling
+                li
+                  a(href='/6_Bootstrap/Summary.html') Bootstrap
+                li
+                  a(href='/7_ETC-Tips/Summary.html') Etc/Tips
+                li.divider(role='separator')
+                li.dropdown-header Nav header
+                li
+                  a(href='/8_MyCarrier/My Carrier.html') My Carrier
+    
+mixin logo()
+    figure
+        img(alt='Elvenware', src='/images/elvenwarelogo.png')
+
+
+
