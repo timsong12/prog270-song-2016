@@ -1,6 +1,20 @@
 # Bootstrap Components
 This shows various Bootstrap and Bootswatch components....
 
+## Text of various colors
+<p class="text-muted">text-muted</p>
+<p class="text-primary">text-primary</p>
+<p class="text-success">text-success</p>
+<p class="text-info">text-info</p>
+<p class="text-warning">text-warning</p>
+<p class="text-danger">text-danger</p>
+
+## Responsive image
+<img src="/images/elvenwarelogo.png" class="img-responsive" alt="Responsive image">
+
+## Round image
+<img src="/images/elvenwarelogo.png" class="img-circle" alt="Round image">
+
 ## Buttons
 - Large size
 <div class="padded">
