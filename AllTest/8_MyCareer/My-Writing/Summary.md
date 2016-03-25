@@ -1,0 +1,8 @@
+* [Buca di Beppo.html](Buca di Beppo.html)
+* [Kei Nishikory.html](Kei Nishikory.html)
+* [My dream house.html](My dream house.html)
+* [My-Writing.html](My-Writing.html)
+* [Recovering distant memory of my first Christmas tree.html](Recovering distant memory of my first Christmas tree.html)
+* [The first day of driving in the US.html](The first day of driving in the US.html)
+* [Three effective ways of gaining weight.html](Three effective ways of gaining weight.html)
+* [Three key things to impress a girl on a date.html](Three key things to impress a girl on a date.html)

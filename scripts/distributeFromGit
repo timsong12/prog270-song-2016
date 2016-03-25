@@ -38,3 +38,4 @@ cp -ruvp $CSS_JS_IMAGE/js /var/www/html/.
 cp -uvp $REPO/index.html /var/www/html/.
 
 cp -uvp $REPO/scripts/.bash_aliases ~/.
+cp -uvp $REPO/scripts/mixins.jade ~/Source/MakeHtml/node_modules/elven-site-tools/views/.
