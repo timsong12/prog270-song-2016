@@ -1,0 +1,15 @@
+#! /bin/bash
+
+# Prog272-2016
+alias g0='cd ~/Git/prog270-song-2016'
+alias g2='cd ~/Git/prog272-song-2016'
+alias g9='cd ~/Git/prog219-song-2016'
+
+# Prog270-2016
+alias ee="ssh ubuntu"
+alias scpt='cd ~/Git/prog270-song-2016/scripts'
+alias www='cd /var/www/html'
+alias cgibin='cd /usr/lib/cgi-bin'
+alias at='cd ~/Documents/AllTest'
+alias schtm='cd ~/Source/MakeHtml'
+alias scimg='cd ~/Source/ElvenImages'
