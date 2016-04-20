@@ -1,21 +1,25 @@
 # Spring break trip to Oregon
 
-Columbia River
+### Columbia River
+<img class="w90percent" src="/images/201604_Oregon/30_20160401_093501.jpg" alt="8">
 
-![My Image](/images/201604_Oregon/20_20160401_093501.jpg)
+### Columbia River
+<img class="w90percent" src="/images/201604_Oregon/30_20160401_124923.jpg" alt="8">
 
-![My Image](/images/201604_Oregon/20_20160401_124923.jpg)
+### Columbia River
+<img class="w90percent" src="/images/201604_Oregon/30_20160401_130448.jpg" alt="8">
 
-![My Image](/images/201604_Oregon/20_20160401_130448.jpg)
+### Columbia River
+<img class="w90percent" src="/images/201604_Oregon/30_20160401_142055.jpg" alt="8">
 
-![My Image](/images/201604_Oregon/20_20160401_142055.jpg)
+### Columbia River
+<img class="w90percent" src="/images/201604_Oregon/30_20160401_144556.jpg" alt="8">
 
-![My Image](/images/201604_Oregon/20_20160401_144556.jpg)
+### Columbia River
+<img class="w90percent" src="/images/201604_Oregon/30_20160401_161310.jpg" alt="8">
 
-![My Image](/images/201604_Oregon/20_20160401_161310.jpg)
-
-![My Image](/images/201604_Oregon/20_20160401_161551.jpg)
+### Columbia River
+<img class="w90percent" src="/images/201604_Oregon/30_20160401_161551.jpg" alt="8">
 
 ### On my way home, we stopped by the Nike Clearance Sore, I think, it's good place to buy Nike with a good price.
-
-![My Image](/images/201604_Oregon/20_20160402_130359.jpg)
+<img class="w90percent" src="/images/201604_Oregon/30_20160402_130359.jpg" alt="8">

@@ -1,9 +1,16 @@
 #! /bin/bash
 
 # Prog272-2016
+alias mybash2gt='cp -v ~/.my_bash_aliases ~/Git/prog272-song-2016/.'
+alias mybash2rt='cp -v ~/Git/prog272-song-2016/.my_bash_aliases ~/.'
+alias mybash='source ~/.bash_aliases'
 alias g0='cd ~/Git/prog270-song-2016'
 alias g2='cd ~/Git/prog272-song-2016'
 alias g9='cd ~/Git/prog219-song-2016'
+alias w1c='cd ~/Git/prog272-song-2016/Week01-CordovaStarter'
+alias w2g='cd ~/Git/prog272-song-2016/Week02-GetNumbers'
+alias w2o='cd ~/Git/prog272-song-2016/Week02-ObjectBasicsJasmine'
+alias w3e='cd ~/Git/prog272-song-2016/Week03-ExpressBasics'
 
 # Prog270-2016
 alias ee="ssh ubuntu"
